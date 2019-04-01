@@ -102,4 +102,8 @@ The course is sponsored by Sarah Sewall, Former Undersecretary of State for Civi
 
 CAPS is funded through a grant from Johns Hopkins Technology Ventures.
 
+:email: To contact us, reach out to capsseminar@gmail.com
+
+
+
 
