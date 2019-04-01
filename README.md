@@ -40,7 +40,7 @@ Markov decision processes; Bellman equation
 
 * *Case*: Learning in a counterinsurgency team
 
-* Notes | Slides | [Case](https://github.com/capsseminar/Course-material/blob/master/Docs/CAPS-Skills-Course_Syllabus.pdf) (notes and slides will be uploaded before class)
+* Notes | Slides | [Case](https://github.com/capsseminar/Course-material/blob/master/Docs/Week1_CaseStudy) (notes and slides will be uploaded before class)
 
 :blue_book: **Lecture 2 - Rule-Based Decision Making in a Fuzzy World**
 
