@@ -10,6 +10,8 @@ ___
 
 * Logistics
 * Course Material
+* Skills Course Policy
+* Team and Contact
 
 ___
 
@@ -21,9 +23,7 @@ CAPS takes place over three weeks, with two 90 minute sessions per week. The fir
 
 * Fridays 6:00–7:30 pm in BOB 736
 
-For enrollment or questions, contact capsseminar@gmail.com
-
-CAPS is created by SAIS M.A.s Leo Klenner, Henry Fung, Cory Combs and JJ Lee. The course is sponsored by Speyer Family Foundation Distinguished Scholar Sarah Sewall and funded through a grant from Johns Hopkins Technology Ventures.
+:email: For enrollment or questions, contact capsseminar@gmail.com
 
 ### Syllabus
 
@@ -87,5 +87,19 @@ campaign
 *Guiding question*: How can we provide meaningful insights into a complex, technical domain for a senior policymaker to determine high-level strategy
 
 * Details for guest senior policymaker TBA.
+
+### Skills Course Policy
+
+CAPS is pre-approved as an official SAIS skills course, meaning that if you attend all of the sessions, you obtain certification for the course on your transcript.
+
+For the course to appear on one’s trascript, they must attend all sessions.
+
+### Team and Contact
+
+CAPS is created and taught by SAIS M.A.s Leo Klenner, Henry Fung, Cory Combs and JJ Lee. 
+
+The course is sponsored by Sarah Sewall, Former Undersecretary of State for Civilian Secuirty, Democracy and Human Rights (2014-2017) and Speyer Family Foundation Distinguished Scholar at the Henry A. Kissinger Center for Global Affairs.
+
+CAPS is funded through a grant from Johns Hopkins Technology Ventures.
 
 
