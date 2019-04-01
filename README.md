@@ -2,7 +2,7 @@
 
 The CAPS AI Policy and Strategy skills course is an immersive six-part seminar that trains participants in the role of a fictional Forward-Deployed Policy Engineer tasked with overseeing AI systems deployed in an ongoing conflict zone. 
 
-The course begins with an AI bootcamp and quickly moves participants “into the field” to confront case studies rooted in real needs in the test environment of Afghanistan.
+The course begins with an AI bootcamp and quickly moves participants “into the field” to confront case studies rooted in real needs in the test environment of Afghanistan. Taught at Johns Hopkins SAIS in the Spring 2019 semester. 
 
 ___
 
@@ -20,6 +20,8 @@ CAPS takes place over three weeks, with two 90 minute sessions per week. The fir
 * Wednesdays 6:00–7:30 pm in Nitze 507
 
 * Fridays 6:00–7:30 pm in BOB 736
+
+CAPS is created by SAIS M.A.s Leo Klenner, Henry Fung, Cory Combs and JJ Lee. The course is sponsored by Speyer Family Foundation Distinguished Scholar Sarah Sewall and funded through a grant from Johns Hopkins Technology Ventures.
 
 ### Syllabus
 
