@@ -27,7 +27,7 @@ CAPS takes place over three weeks, with two 90 minute sessions per week. The fir
 
 ### Syllabus
 
-A pdf version of the syllabus can be found [here](https://github.com/capsseminar/Course-material/blob/master/Docs/Syllabus_03_28.pdf) (last updated, March 28 2019).
+A pdf version of the syllabus can be found [here](https://github.com/capsseminar/Course-material/blob/master/Docs/CAPS_Syllabus_04_01.pdf) (last updated, April 01 2019).
 
 ### Course Materials and Overview
 
