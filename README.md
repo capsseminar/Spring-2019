@@ -28,14 +28,15 @@ A pdf version of the syllabus can be found here (last updated, March 28 2019).
 ### Course Materials and Overview
 
 **Lecture 1 - Introduction to Human Factors and Reinforcement Learning**
-Guiding question: How do human teams make decisions and how does this decision-making compare to autonomous decision processes, such as those of reinforcement learning algorithms?
-• Topics covered: Learning from interaction; Decision-making in human teams; Reinforcement learning;
-Markov decision processes; Bellman equation
-• Case: Learning in a counterinsurgency team
 
-* [ ] Notes 
-* [ ] Slides 
-* [ ] Assignment
+* Guiding question: How do human teams make decisions and how does this decision-making compare to autonomous decision processes, such as those of reinforcement learning algorithms?
+
+* Topics covered: Learning from interaction; Decision-making in human teams; Reinforcement learning;
+Markov decision processes; Bellman equation
+
+* Case: Learning in a counterinsurgency team
+
+Notes | Slides | Assignment
 
 **Lecture 2 - Rule-Based Decision Making in a Fuzzy World**
 - [ ] Notes 
