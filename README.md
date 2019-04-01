@@ -40,7 +40,7 @@ Markov decision processes; Bellman equation
 
 * *Case*: Learning in a counterinsurgency team
 
-* Notes | Slides | Assignment (will be uploaded before class)
+* Notes | Slides | [Case](https://github.com/capsseminar/Course-material/blob/master/Docs/CAPS_Syllabus_04_01.pdf) (notes and slides will be uploaded before class)
 
 :blue_book: **Lecture 2 - Rule-Based Decision Making in a Fuzzy World**
 
@@ -51,7 +51,7 @@ complexity; System requirements in fuzzy environments
 
 * *Case*: Designing and evaluating a rule-based system to clear a conflict zone
 
-* Notes | Slides | Assignment (will be uploaded before class)
+* Notes | Slides | Case (will be uploaded before class)
 
 :blue_book: **Lecture 3 - Learning to Make Decisions with and without a Model of the World**
 
@@ -61,7 +61,7 @@ complexity; System requirements in fuzzy environments
 
 * *Case*: Determining and evaluating possible learning architectures of an enemy drone
 
-* Notes | Slides | Assignment (will be uploaded before class)
+* Notes | Slides | Case (will be uploaded before class)
 
 :blue_book: **Lecture 4 - Guiding Reinforcement Learners through Human Control**
 
@@ -71,7 +71,7 @@ complexity; System requirements in fuzzy environments
 
 * *Case*: Improving the operation of a semi-autonomous supply convoy in a contested environment
 
-* Notes | Slides | Assignment (will be uploaded before class)
+* Notes | Slides | Case (will be uploaded before class)
 
 :blue_book: **Lecture 5 - Making Sound Long-Term Predictions about AI
 
