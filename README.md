@@ -21,6 +21,8 @@ CAPS takes place over three weeks, with two 90 minute sessions per week. The fir
 
 * Fridays 6:00–7:30 pm in BOB 736
 
+For enrollment or questions, contact capsseminar@gmail.com
+
 CAPS is created by SAIS M.A.s Leo Klenner, Henry Fung, Cory Combs and JJ Lee. The course is sponsored by Speyer Family Foundation Distinguished Scholar Sarah Sewall and funded through a grant from Johns Hopkins Technology Ventures.
 
 ### Syllabus
