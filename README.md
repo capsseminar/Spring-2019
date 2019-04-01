@@ -27,7 +27,7 @@ CAPS takes place over three weeks, with two 90 minute sessions per week. The fir
 
 ### Syllabus
 
-A pdf version of the syllabus can be found [here](https://github.com/capsseminar/Course-material/blob/master/Docs/CAPS_Syllabus_04_01.pdf) (last updated, April 01 2019).
+A pdf version of the syllabus can be found [here](https://github.com/capsseminar/Course-material/blob/master/Docs/CAPS Skills Course Syllabus.pdf) (last updated, April 01 2019).
 
 ### Course Materials and Overview
 
@@ -40,7 +40,7 @@ Markov decision processes; Bellman equation
 
 * *Case*: Learning in a counterinsurgency team
 
-* Notes | Slides | [Case](https://github.com/capsseminar/Course-material/blob/master/Docs/CAPS_Syllabus_04_01.pdf) (notes and slides will be uploaded before class)
+* Notes | Slides | [Case](https://github.com/capsseminar/Course-material/blob/master/Docs/CAPS Skills Course Syllabus.pdf) (notes and slides will be uploaded before class)
 
 :blue_book: **Lecture 2 - Rule-Based Decision Making in a Fuzzy World**
 
@@ -96,7 +96,7 @@ For the course to appear on one’s trascript, they must attend all sessions.
 
 ### Team and Contact
 
-CAPS is created and taught by SAIS M.A.s Leo Klenner, Henry Fung, Cory Combs and JJ Lee. 
+CAPS is created and taught by SAIS MAs Leo Klenner, Henry Fung, Cory Combs and JJ Lee. 
 
 The course is sponsored by Sarah Sewall, Former Undersecretary of State for Civilian Secuirty, Democracy and Human Rights (2014-2017) and Speyer Family Foundation Distinguished Scholar at the Henry A. Kissinger Center for Global Affairs.
 
