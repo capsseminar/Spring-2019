@@ -6,7 +6,6 @@ from lm import left, right, forward, back # Controls turns and forward/back move
 from vc import human_detect, mine_detect, door_detect # The code only looks for these three objects
 from gm import cardinal_direction, rel_position # Records direction and position relative to starting point
 
-
 ### MODULES
 
 ## visual_cortex
