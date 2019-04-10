@@ -28,11 +28,9 @@ def detect(image):
 # "rotate" is a primite function and "degrees" is defined
 def turn_right(self, degrees = 90): # This sets the default value of "degrees" to 90
 	self.rotate(degrees)
-	break
 
 def turn_left(self, degrees = -90):
 	self.rotate(degrees)
-	break
 
 def move_forward(self, distance = 1.5): # Units are coded to be in meters
 	while door_detect == TRUE:
