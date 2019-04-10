@@ -40,7 +40,7 @@ Markov decision processes; Bellman equation
 
 * *Case*: Learning in a counterinsurgency team
 
-* [Notes](https://github.com/capsseminar/Course-material/blob/master/Docs/Week1_LectureNotes.pdf) | [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Week1_Slides.pptx) | [Case](https://github.com/capsseminar/Course-material/blob/master/Docs/Week1_CaseStudy.pdf) (notes and slides will be uploaded before class)
+* [Notes](https://github.com/capsseminar/Course-material/blob/master/Docs/Session_LectureNotes.pdf) | [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session1_Slides.pptx) | [Case](https://github.com/capsseminar/Course-material/blob/master/Docs/Session1_CaseStudy.pdf) (notes and slides will be uploaded before class)
 
 :blue_book: **Lecture 2 - Rule-Based Decision Making in a Fuzzy World**
 
@@ -61,7 +61,7 @@ complexity; System requirements in fuzzy environments
 
 * *Case*: Determining and evaluating possible learning architectures of an enemy drone
 
-* [Notes](https://github.com/capsseminar/Course-material/blob/master/Docs/Week3_LectureNotes.pdf) | Slides | Case (will be uploaded before class)
+* [Notes](https://github.com/capsseminar/Course-material/blob/master/Docs/Session3_LectureNotes.pdf) | Slides | Case (will be uploaded before class)
 
 :blue_book: **Lecture 4 - Guiding Reinforcement Learners through Human Control**
 
