@@ -40,7 +40,7 @@ Markov decision processes; Bellman equation
 
 * *Case*: Learning in a counterinsurgency team
 
-* [Notes](https://github.com/capsseminar/Course-material/blob/master/Docs/Session1_LectureNotes.pdf) | [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session1_Slides.pptx) | [Case](https://github.com/capsseminar/Course-material/blob/master/Docs/Session1_CaseStudy.pdf) (notes and slides will be uploaded before class)
+* [Notes](https://github.com/capsseminar/Course-material/blob/master/Docs/Session1_LectureNotes.pdf) | [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session1_Slides.pptx) | [Case](https://github.com/capsseminar/Course-material/blob/master/Docs/Session1_CaseStudy.pdf)
 
 :blue_book: **Lecture 2 - Rule-Based Decision Making in a Fuzzy World**
 
@@ -51,7 +51,7 @@ complexity; System requirements in fuzzy environments
 
 * *Case*: Designing and evaluating a rule-based system to clear a conflict zone
 
-* Notes | Slides | Case (will be uploaded before class)
+* Notes | Slides | Case
 
 :blue_book: **Lecture 3 - Learning to Make Decisions with and without a Model of the World**
 
@@ -61,7 +61,7 @@ complexity; System requirements in fuzzy environments
 
 * *Case*: Determining and evaluating possible learning architectures of an enemy drone
 
-* [Notes](https://github.com/capsseminar/Course-material/blob/master/Docs/Session3_LectureNotes.pdf) | Slides | Case (will be uploaded before class)
+* [Notes](https://github.com/capsseminar/Course-material/blob/master/Docs/Session3_LectureNotes.pdf) | Slides | Case
 
 :blue_book: **Lecture 4 - Guiding Reinforcement Learners through Human Control**
 
@@ -71,7 +71,7 @@ complexity; System requirements in fuzzy environments
 
 * *Case*: Improving the operation of a semi-autonomous supply convoy in a contested environment
 
-* Notes | Slides | Case (will be uploaded before class)
+* Notes | Slides | Case
 
 :blue_book: **Lecture 5 - Making Sound Long-Term Predictions about AI
 
@@ -103,7 +103,3 @@ The course is sponsored by Sarah Sewall, Former Undersecretary of State for Civi
 CAPS is funded through a grant from Johns Hopkins Technology Ventures.
 
 :email: To contact us, reach out to capsseminar@gmail.com
-
-
-
-
