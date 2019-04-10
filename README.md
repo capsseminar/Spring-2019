@@ -61,7 +61,7 @@ complexity; System requirements in fuzzy environments
 
 * *Case*: Determining and evaluating possible learning architectures of an enemy drone
 
-* [Notes](https://github.com/capsseminar/Course-material/blob/master/Docs/Session3_LectureNotes.pdf) | Slides | Case
+* [Notes](https://github.com/capsseminar/Course-material/blob/master/Docs/Session3_LectureNotes.pdf) | [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session3_Slides.pptx) | Case: [Base Code](https://github.com/capsseminar/Course-material/blob/master/Docs/Session2_RoomClearing.py) and [Supplementary Code](https://github.com/capsseminar/Course-material/blob/master/Docs/Session2_RoomClearing_Libraries.py)
 
 :blue_book: **Lecture 4 - Guiding Reinforcement Learners through Human Control**
 
