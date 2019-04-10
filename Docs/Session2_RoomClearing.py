@@ -38,7 +38,7 @@ while mission_active == TRUE: # Sets to continually run mission until this varia
 			move_forward() # The bot moves toward the door and then a specified distance beyond it (to fully enter the room)
 		else:
 			turn_left()
-		continue # Returns the code to the "while mission_active == TRUE" line
+		# At this point the code rerturns to the "while mission_active == TRUE" line
     
 ### What are potential issues in this hard-coded procedure?
 ### (It includes many intentional issues - bonus points for finding unintentional ones!)
