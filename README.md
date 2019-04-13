@@ -53,7 +53,7 @@ complexity; System requirements in fuzzy environments
 
 * *Case*: Designing and evaluating a rule-based system to clear a conflict zone
 
-* Notes() | [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session2_Slides.pdf) | [Case](https://github.com/capsseminar/Course-material/blob/master/Docs/Session2_CaseStudy.pdf)
+* Notes | [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session2_Slides.pdf) | [Case](https://github.com/capsseminar/Course-material/blob/master/Docs/Session2_CaseStudy.pdf)
 
 :blue_book: **Lecture 3 - Learning to Make Decisions with and without a Model of the World**
 
