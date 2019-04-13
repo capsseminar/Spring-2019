@@ -75,7 +75,7 @@ complexity; System requirements in fuzzy environments
 
 * Notes | [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session4_Slides.pdf) | Case
 
-:blue_book: **Lecture 5 - Making Sound Long-Term Predictions about AI
+:blue_book: **Lecture 5 - Making Sound Long-Term Predictions about AI**
 
 * *Guiding question*: How can we synthesize partial observations into stable predictions about the longterm development of AI and its impact on operational ecosystems?
 
