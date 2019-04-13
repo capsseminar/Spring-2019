@@ -31,6 +31,8 @@ A pdf version of the syllabus can be found [here](https://github.com/capsseminar
 
 ### Course Materials and Overview
 
+*All materials not linked below are forthcoming. All can also be found in and downloaded from the Docs folder.*
+
 :blue_book: **Lecture 1 - Introduction to Human Factors and Reinforcement Learning**
 
 * *Guiding question*: How do human teams make decisions and how does this decision-making compare to autonomous decision processes, such as those of reinforcement learning algorithms?
@@ -40,7 +42,7 @@ Markov decision processes; Bellman equation
 
 * *Case*: Learning in a counterinsurgency team
 
-* [Notes](https://github.com/capsseminar/Course-material/blob/master/Docs/Session1_LectureNotes.pdf) | [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session1_Slides.pptx) | [Case](https://github.com/capsseminar/Course-material/blob/master/Docs/Session1_CaseStudy.pdf)
+* [Notes](https://github.com/capsseminar/Course-material/blob/master/Docs/Session1_LectureNotes.pdf) | [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session1_Slides.pdf) | [Case](https://github.com/capsseminar/Course-material/blob/master/Docs/Session1_CaseStudy.pdf)
 
 :blue_book: **Lecture 2 - Rule-Based Decision Making in a Fuzzy World**
 
@@ -51,7 +53,7 @@ complexity; System requirements in fuzzy environments
 
 * *Case*: Designing and evaluating a rule-based system to clear a conflict zone
 
-* Notes | Slides | Case
+* Notes() | Slides(https://github.com/capsseminar/Course-material/blob/master/Docs/Session2_Slides.pdf) | Case(https://github.com/capsseminar/Course-material/blob/master/Docs/Session2_CaseStudy.pdf)
 
 :blue_book: **Lecture 3 - Learning to Make Decisions with and without a Model of the World**
 
@@ -61,7 +63,7 @@ complexity; System requirements in fuzzy environments
 
 * *Case*: Determining and evaluating possible learning architectures of an enemy drone
 
-* [Notes](https://github.com/capsseminar/Course-material/blob/master/Docs/Session3_LectureNotes.pdf) | [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session3_Slides.pdf) | Case: [Base Code](https://github.com/capsseminar/Course-material/blob/master/Docs/Session2_RoomClearing.py) and [Supplementary Code](https://github.com/capsseminar/Course-material/blob/master/Docs/Session2_RoomClearing_Libraries.py)
+* [Notes](https://github.com/capsseminar/Course-material/blob/master/Docs/Session3_LectureNotes.pdf) | [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session3_Slides.pdf) | Case: [Base Code](https://github.com/capsseminar/Course-material/blob/master/Docs/Session3_RoomClearing.py) and [Supplementary Code](https://github.com/capsseminar/Course-material/blob/master/Docs/Session3_RoomClearing_Libraries.py)
 
 :blue_book: **Lecture 4 - Guiding Reinforcement Learners through Human Control**
 
@@ -71,7 +73,7 @@ complexity; System requirements in fuzzy environments
 
 * *Case*: Improving the operation of a semi-autonomous supply convoy in a contested environment
 
-* Notes | Slides | Case
+* Notes | [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session4_Slides.pdf) | Case
 
 :blue_book: **Lecture 5 - Making Sound Long-Term Predictions about AI
 
