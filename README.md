@@ -6,6 +6,12 @@ The course begins with an AI bootcamp and quickly moves participants “into the
 
 ___
 
+### Updates
+
+We're excited that CAPS will continue to be taught at Johns Hopkins SAIS in the Fall 2019 semester. We're currently updating our curriculum and lecture materials. Therefore, some of this repo will be "under construction". 
+
+___
+
 ### Contents
 
 * [Logistics](https://github.com/capsseminar/Course-material/blob/master/README.md#logistics)
