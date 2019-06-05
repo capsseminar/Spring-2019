@@ -61,7 +61,7 @@ complexity; System requirements in fuzzy environments
 
 * [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session2_Slides.pdf) | [Case](https://github.com/capsseminar/Course-material/blob/master/Docs/Session2_CaseStudy.pdf)
 
-:blue_book: **Lecture 3 - Learning to Make Decisions with and without a Model of the World**
+:blue_book: **Lecture 3 - Learning to Make Decisions with and without a Model of the World: From Learning Architectures to Decision Profiles**
 
 * *Guiding question*: How can we conceptualize core differences in learning architectures and apply this knowledge to augment partial observations of a reinforcement learner’s performance?
 
