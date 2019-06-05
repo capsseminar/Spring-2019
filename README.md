@@ -1,14 +1,14 @@
 # Computational Applications to Policy and Strategy
 
-The CAPS AI Policy and Strategy skills course is an immersive six-part seminar that trains participants in the role of a fictional Forward-Deployed Policy Engineer tasked with overseeing AI systems deployed in an ongoing conflict zone. 
+The CAPS AI Policy and Strategy (CAPS) skills course is an immersive six-part seminar that trains participants in the role of a fictional Forward-Deployed Policy Engineer tasked with overseeing AI systems deployed in an ongoing conflict zone. 
 
-The course begins with an AI bootcamp and quickly moves participants “into the field” to confront case studies rooted in real needs in the test environment of Afghanistan. Taught at Johns Hopkins SAIS in the Spring 2019 semester. 
+The course begins with an AI bootcamp and quickly moves participants “into the field” to confront case studies rooted in real needs in the test environment of Afghanistan's contested territories. The seminar was most recently taught at Johns Hopkins SAIS in Spring 2019. 
 
 ___
 
 ### Updates
 
-We're excited that CAPS will continue to be taught at Johns Hopkins SAIS in the Fall 2019 semester. We're currently updating our curriculum and lecture materials. Therefore, some of this repo will be "under construction". 
+We are excited to announce that CAPS will continue to be taught at Johns Hopkins SAIS in the Fall 2019 semester. We are currently updating our curriculum and lecture materials; therefore, some of this repo will be "under construction," primarily in the "Supplemental" directory. The original course materials remain in the primary "Docs" directory.
 
 ___
 
