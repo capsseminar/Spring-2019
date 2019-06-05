@@ -59,7 +59,7 @@ complexity; System requirements in fuzzy environments
 
 * *Case*: Designing and evaluating a rule-based system to clear a conflict zone
 
-* Notes | [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session2_Slides.pdf) | [Case](https://github.com/capsseminar/Course-material/blob/master/Docs/Session2_CaseStudy.pdf)
+* [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session2_Slides.pdf) | [Case](https://github.com/capsseminar/Course-material/blob/master/Docs/Session2_CaseStudy.pdf)
 
 :blue_book: **Lecture 3 - Learning to Make Decisions with and without a Model of the World**
 
@@ -71,36 +71,39 @@ complexity; System requirements in fuzzy environments
 
 * [Notes](https://github.com/capsseminar/Course-material/blob/master/Docs/Session3_LectureNotes.pdf) | [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session3_Slides.pdf) | Case: [Base Code](https://github.com/capsseminar/Course-material/blob/master/Docs/Session3_RoomClearing.py) and [Supplementary Code](https://github.com/capsseminar/Course-material/blob/master/Docs/Session3_RoomClearing_Libraries.py)
 
-:blue_book: **Lecture 4 - Guiding Reinforcement Learners through Human Control**
+:blue_book: **Lecture 4 - Goal Specification and Reward Design**
 
 * *Guiding question*: How can we use human input throughout the reinforcement learning process and during deployment to ensure optimal system performance and what are the trade-offs of this approach?
 
-* *Topics covered*: Human-in the-loop reinforcement learning; Shared autonomy; Reward shaping
+* *Topics covered*: Goal specification; Reward design; Human-in the-loop reinforcement learning; Shared autonomy
 
 * *Case*: Improving the operation of a semi-autonomous supply convoy in a contested environment
 
-* Notes | [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session4_Slides.pdf) | Case
+* [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session4_Slides.pdf)
 
-:blue_book: **Lecture 5 - Making Sound Long-Term Predictions about AI**
+:blue_book: **Lecture 5 - Implementing Value Iteration in Python**
 
 * *Guiding question*: How can we synthesize partial observations into stable predictions about the longterm development of AI and its impact on operational ecosystems?
 
-* *Topics covered*: Methods of analysis and prediction
+* *Topics covered*: Policy iteration vs. value iteration; Challenges in making inferences about live AI systems based on partial observations; Foundations of Python implementation (added per participant request)
 
-* *Case*: Developing recommendations on implementing autonomous decision-making into a counterinsurgency
-campaign
+* *Case*: Developing recommendations on what form(s) of autonomous decision-making to implement in scenarios related to a counterinsurgency campaign
 
-:blue_book: **Lecture 6 - Participant Presentation and Debriefing with Senior Policymaker**
+* [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session5_Slides.pdf)
 
-*Guiding question*: How can we provide meaningful insights into a complex, technical domain for a senior policymaker to determine high-level strategy
+:blue_book: **Lecture 6 - Conclusion and Guest Presentation by Professor Sarah Sewall**
 
-* Details for guest senior policymaker TBA.
+*Guiding question*: How can we provide meaningful insights into a complex, technical domain for a senior policymaker to determine high-level strategy?
+
+* *Topics covered*: Holistic review (design challenges of autonomous systems, model-based vs. model-free learning, multi-agent learning, degrees of autonomy, agent-environment interaction); Guest presentation and discussion led by Professor Sarah Sewall
+
+* [Slides](https://github.com/capsseminar/Course-material/blob/master/Docs/Session6_Slides.pdf)
 
 ### Skills Course Policy
 
-CAPS is pre-approved as an official SAIS skills course, meaning that if you attend all of the sessions, you obtain certification for the course on your transcript.
+CAPS is an official SAIS skills course. Participants who attend all sessions and pass the requirements obtain formal certification for the course on their Johns Hopkins academic transcripts.
 
-For the course to appear on one’s trascript, they must attend all sessions.
+For the course to appear on one’s trascript, they must attend all sessions. If a session is missed due to illness or an emergency, the CAPS team will arrange a make-up session.
 
 ### Team and Contact
 
@@ -110,4 +113,4 @@ The course is sponsored by Sarah Sewall, Former Undersecretary of State for Civi
 
 CAPS is funded through a grant from Johns Hopkins Technology Ventures.
 
-:email: To contact us, reach out to capsseminar@gmail.com
+:email: To contact us, reach out to capsseminar@gmail.com.
