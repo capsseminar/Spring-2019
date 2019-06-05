@@ -39,7 +39,7 @@ A pdf version of the syllabus can be found [here](https://github.com/capsseminar
 
 *All materials not linked below are forthcoming. All can also be found in and downloaded from the Docs folder.*
 
-:blue_book: **Lecture 1 - Introduction to Human Factors and Reinforcement Learning**
+:blue_book: **Lecture 1 - Foundations Bootcamp: Introduction to Human Factors and Reinforcement Learning**
 
 * *Guiding question*: How do human teams make decisions and how does this decision-making compare to autonomous decision processes, such as those of reinforcement learning algorithms?
 
