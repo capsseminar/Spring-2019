@@ -1,6 +1,6 @@
 This folder contains the course documents for the Computational Applications to Policy and Strategy (CAPS) seminar, most recently taught as a skills course at the Johns Hopkins University School of Advanced International Studies in Spring 2019.
 
-For self-studiers: the course consists of the files labeled "SessionX_"; please consult the Caps Skills Course Syllabus to begin.
+**For self-studiers: the course consists of the files labeled "SessionX_"; please consult the Caps Skills Course Syllabus to begin.** Note that some material was modified during the course of the semester based on participant interest, needs, and requests (most notably Session 5).
 
 The course slides contain primary content. Lecture notes have been provided to supplement the slides where most helpful, while keeping the material to a manageable amount. Supplementary sources on topics of particular interest are cited in the course slides.
 
