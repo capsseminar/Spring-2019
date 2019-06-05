@@ -1,9 +1,10 @@
-This folder contains the course documents for the Computational Applications to Policy and Strategy (CAPS) seminar, most recently taught as a skills course at the Johns Hopkins University School of Advanced International Studies in Spring 2019.
+This folder contains the course documents for the Computational Applications to Policy and Strategy (CAPS) seminar, most recently taught as a skills course at the Johns Hopkins University School of Advanced International Studies in Spring 2019. The course bridges the little-studied policy space between software engineers and higher-level policymakers and strategists. It centers around reinforcement learning as a mainstay of machine learning; the lessons provide necessary foundations for later study of other areas in AI, for example neural networks and deep learning.
 
-**For self-studiers: the course consists of the files labeled "SessionX_"; please consult the CAPS Skills Course Syllabus, at top, to begin.** Note that some material was modified during the course of the semester based on participant interest, needs, and requests (most notably Session 5).
+**For self-studiers:**
+* To begin, please consult the CAPS Skills Course Syllabus, at top, to begin. Note that some material was modified during the course of the semester based on participant interest, needs, and requests (most notably Session 5).
+* The course slides contain primary content. Lecture notes have been provided to supplement the slides where most helpful, while keeping the material to a manageable amount. Select supplementary sources on topics of particular interest (e.g., technical materials on military unmanned aerial vehicles) are cited in the course slides.
+* "T.npy" is a Python file used in a demonstration but not required for student use, while "Capture.png" is simply the course logo.
 
-The course slides contain primary content. Lecture notes have been provided to supplement the slides where most helpful, while keeping the material to a manageable amount. Supplementary sources on topics of particular interest are cited in the course slides.
+If this is your first foray into the technical of AI, please see the classic "Reinforcement Learning: An Introduction," by Richard Sutton and Andrew Barto, available [here](http://incompleteideas.net/book/RLbook2018.pdf). It is large but nicely divided into manageable chunks on topics of interest (often less than five pages) and extremely well written. **We strongly recommend reading pages 1-13 in Chapter 1, to contextualize reinforcement learning and machine learning more generally, and reviewing pages 47-69 in Chapter 3, to understand at a high level the major methods of operationalizing real-world problems in reinforcement learning algorithms (focus on the examples and types of considerations introduced without being bogged down in the math).** Chapters 2 and 4+ are excellent resources but not required basic reading for those with a security or strategic focus.
 
-"T.npy" is a Python file used in a demonstration but not required for student use, while "Capture.png" is simply the course logo.
-
-Please open an issue via Github (on the second tab, above) for any inquiries, suggestions, and comments.
+Please open an issue via Github (on the second tab, above) for any inquiries, suggestions, and comments on the course.
