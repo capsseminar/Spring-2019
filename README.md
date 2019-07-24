@@ -8,7 +8,7 @@ ___
 
 ### Updates
 
-We are excited to announce that CAPS will continue to be taught at Johns Hopkins SAIS in the Fall 2019 semester. We are currently updating our curriculum and lecture materials; therefore, some of this repo will be "under construction," primarily in the "Supplemental" directory. The original course materials remain in the primary "Docs" directory.
+We are excited to announce that CAPS will continue to be taught at Johns Hopkins SAIS in the Fall 2019 semester. The Spring 2019 course materials can be found in the primary "Docs" directory.
 
 ___
 
